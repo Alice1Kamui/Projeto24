@@ -28,7 +28,7 @@ function setup() {
  
   var ball_options = {
   
-    restitution: 1,
+    restitution: 0.75,
     
   }
 
